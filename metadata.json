@@ -1,0 +1,6 @@
+{
+  "name": "Hers Cafe — Karachi",
+  "description": "A luxury concept presentation demo for Hers Cafe in Karachi, featuring artisanal coffee, Belgian waffles, patisserie desserts, and curated ambience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
